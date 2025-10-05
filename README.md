@@ -1,2 +1,0 @@
-# wzu_graduate_thesis_latex
-温州大学计算机与人工智能学院本科生毕业论文latex模板
