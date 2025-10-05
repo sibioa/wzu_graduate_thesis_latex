@@ -25,7 +25,7 @@
 
 ### 本地安装
 
-您可以从 [GitHub] 下载[wzu_graduate_thesis_latex](https://github.com/sibioa/wzu_graduate_thesis_latex/edit/main/README.md)，并解压到合适的目录使用。
+您可以从 [GitHub] 下载[wzu_graduate_thesis_latex](https://github.com/sibioa/wzu_graduate_thesis_latex/edit/main)，并解压到合适的目录使用。
 
 
 
@@ -435,6 +435,7 @@ print(formula)
 % 此外，还可直接插入代码文件，例如插入\texttt{./code/demo.cpp}的效果为：
 \inputcode{cpp}{code/demo.cpp}
 ```
+
 
 
 
