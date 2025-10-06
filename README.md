@@ -1,4 +1,4 @@
-温州大学计算机与人工智能学院本科毕业论文Latex模板
+本科毕业论文Latex模板
 ==========
 
 ## 介绍
@@ -435,6 +435,7 @@ print(formula)
 % 此外，还可直接插入代码文件，例如插入\texttt{./code/demo.cpp}的效果为：
 \inputcode{cpp}{code/demo.cpp}
 ```
+
 
 
 
